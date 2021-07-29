@@ -1,4 +1,4 @@
-# pacman3d
+# Pacman 3d
 
 As the name suggests, 
 ## This is a Replica of the beloved game Pacman. 
